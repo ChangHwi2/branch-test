@@ -1,0 +1,67 @@
+[33mcommit 18885e4c712936adf1c975a2526ff7acc5a5ae5c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 7418e43 af47aa2
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 23:41:20 2023 +0900
+
+    resolved conflict
+
+[33mcommit af47aa2adf5a8f356df86b8b7f9128ba410153f2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ChangHwi2 <144129755+ChangHwi2@users.noreply.github.com>
+Date:   Thu Nov 2 23:35:44 2023 +0900
+
+    Hotfix team's solution
+
+[33mcommit 7418e4318ef5e33ba4aa3988b05b4400493b8302[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 23:34:01 2023 +0900
+
+    hotfix my solution
+
+[33mcommit a485b94b892f907ed8c3e85e625184aeebba09d1[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 23:27:18 2023 +0900
+
+    main
+
+[33mcommit 14a086f33c9a948f13a05841b311b225ad3409a3[m
+Merge: dc35f06 33cd3eb
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 23:24:40 2023 +0900
+
+    main
+
+[33mcommit dc35f060ddbf7b07be97acaba6673c87453eec7c[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 23:06:44 2023 +0900
+
+    issue closed
+
+[33mcommit 33cd3ebf1050629b4561e8face9e0d596e01d174[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 23:03:38 2023 +0900
+
+    new feature
+
+[33mcommit 547795d7faaf8952ebcef9729bf3cbaf13e8ac21[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 22:58:25 2023 +0900
+
+    third commit
+
+[33mcommit 6cde52b36764fd7ff463e9ee3d3ed961f4bce2d0[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 22:57:49 2023 +0900
+
+    second commit
+
+[33mcommit ffe78e33dc1aa17df2a1838340ed27dc09365018[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Nov 2 22:56:52 2023 +0900
+
+    first commit
+
+[33mcommit 0337b9443e959879ec90d18c92fdfde90a88f89f[m
+Author: Changhwi Jo <jch060400@naver.com>
+Date:   Thu Oct 12 18:47:44 2023 +0900
+
+    initial commit
